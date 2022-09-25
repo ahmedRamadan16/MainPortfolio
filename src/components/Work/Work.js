@@ -37,7 +37,7 @@ function Work() {
 
             <button className="show-design">
               <a
-                href="https://github.com/ahmedRamadan16/NetflixClone"
+                href="https://netflix1-clone1.netlify.app"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -85,7 +85,7 @@ function Work() {
 
             <button className="show-design">
               <a
-                href="https://github.com/ahmedRamadan16/Cyporg"
+                href="https://cyporg-website.netlify.app"
                 target="_blank"
                 rel="noreferrer"
               >

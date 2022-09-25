@@ -1,4 +1,3 @@
-import { useRef, useEffect } from "react";
 import SolidLogo from "../../assets/images/logo-s.png";
 import "./Logo.scss";
 

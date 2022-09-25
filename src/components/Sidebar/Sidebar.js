@@ -73,7 +73,11 @@ function Sidebar() {
         </NavLink>
         <ul>
           <li>
-            <a target="_blank" href="https://github.com/ahmedRamadan16">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://github.com/ahmedRamadan16"
+            >
               <FontAwesomeIcon icon={faGithub} />
             </a>
           </li>
@@ -81,6 +85,7 @@ function Sidebar() {
           <li>
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.facebook.com/ahmed.rampo.31508/"
             >
               <FontAwesomeIcon icon={faFacebook} />

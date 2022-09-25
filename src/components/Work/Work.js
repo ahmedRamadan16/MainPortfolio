@@ -23,6 +23,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/Amy-Portfolio/"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -38,6 +39,7 @@ function Work() {
               <a
                 href="https://github.com/ahmedRamadan16/NetflixClone"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -53,6 +55,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/Dashboard-/dist/homepage.html "
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -68,6 +71,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/nokoSocial/html/index.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -83,6 +87,7 @@ function Work() {
               <a
                 href="https://github.com/ahmedRamadan16/Cyporg"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -98,6 +103,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/MultiProfile/html/home.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -113,6 +119,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/QuizApp/"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -128,6 +135,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/MemoryGame/"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -143,6 +151,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/EducationTemplate/html/Home.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -157,6 +166,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/UniversityWebsite/html/index.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -172,6 +182,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/SpecialDesign/html/index.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -188,6 +199,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/Template6/"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -203,6 +215,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/Cafena/"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -218,6 +231,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/PlotlistDesign/html/home.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>
@@ -233,6 +247,7 @@ function Work() {
               <a
                 href="https://ahmedramadan16.github.io/OceanVibes/html/home.html"
                 target="_blank"
+                rel="noreferrer"
               >
                 Show Design
               </a>

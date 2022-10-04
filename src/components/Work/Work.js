@@ -271,13 +271,29 @@ function Work() {
           </div>
         </div>
         <div className="work">
-          <img src={WokrImg1} alt="" />
+          <img src={WokrImg3} alt="" />
           <div className="work-info">
             <h2 className="design-name">Wood Shop</h2>
 
             <button className="show-design">
               <a
                 href="https://wood-shop.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Show Design
+              </a>
+            </button>
+          </div>
+        </div>
+        <div className="work">
+          <img src={WokrImg5} alt="" />
+          <div className="work-info">
+            <h2 className="design-name">Ecommerce</h2>
+
+            <button className="show-design">
+              <a
+                href="https://ecommerce1-web.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >

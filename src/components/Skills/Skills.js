@@ -32,10 +32,15 @@ function Skills() {
             <span class="tech-tag">CSS3</span>,
             <span class="tech-tag">JavaScript</span>,
             <span class="tech-tag">React</span>,
+            <span class="tech-tag">React Router Dom</span>,
+            <span class="tech-tag">Redux</span>,
             <span class="tech-tag">Bootstrap</span>,
+            <span class="tech-tag">Figma</span>,
             <span class="tech-tag">GulpJs</span>,
             <span class="tech-tag">PugJs</span>,
             <span class="tech-tag">Sass</span>, 
+            <span class="tech-tag">Tailwind  Css</span>, 
+            <span class="tech-tag">Nextjs</span>, 
             <span class="tech-tag">Jest</span>, 
             <span class="tech-tag">Git</span>, etc.
         </p>
